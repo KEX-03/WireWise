@@ -1364,7 +1364,7 @@ export default PaymentTransferForm;
 </details>
 
 <details>
-<summary>BankDropdown.tsx</code></summary>
+<summary><code>BankDropdown.tsx</code></summary>
 
 ```typescript
 "use client";
